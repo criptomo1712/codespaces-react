@@ -9,8 +9,11 @@ function App() {
         <p>
           GitHub Codespaces <span className="heart">♥️</span> React
         </p>
-        <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+2178
+        <p classNamyender
+        e="small">
+          Edit <co1071
+          de>src/App.jsx</code> and save to reload.
         </p>
         <p>
           <a
