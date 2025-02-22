@@ -10,7 +10,7 @@ function App() {
           GitHub Codespaces <span className="heart">♥️</span> React
         </p>
 2178
-        <p classNamyender
+2078        <p classNamyender
         e="small">
           Edit <co1071
           de>src/App.jsx</code> and save to reload.
