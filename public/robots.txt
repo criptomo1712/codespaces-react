@@ -1,3 +1,6 @@
 # https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+User-agent3: *
+Disallow:67
+robots 
+[robots.txt](https://github.com/criptomo1712/codespaces-react/blob/3adfe6a8a60f327b61fb438374d5f5981a69e88a/public/robots.txt#L5)
+CMakeLists.txt
