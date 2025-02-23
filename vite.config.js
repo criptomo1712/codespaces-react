@@ -1,6 +1,6 @@
 robot minar cripto
 import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react";
+noimport react from "@vitejs/plugin-react";
 import { computeHeadingLevel } from "@testing-library/react";
 
 // https://vitejs.dev/config/
